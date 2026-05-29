@@ -1,6 +1,26 @@
+<div align="center">
+
+![Stock Tracking Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:F59E0B&height=165&section=header&text=Stock%20Tracking%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Custom%20Java%202-3%20tree%20for%20stock%20updates%20and%20price-range%20queries&descSize=15&descAlignY=60)
+
+![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-2--3%20Tree-22C55E?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Range%20Queries-0EA5E9?style=for-the-badge)
+![CI](https://img.shields.io/badge/GitHub%20Actions-Compile%20Check-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
 # Stock Tracking System - Data Structures & Algorithms
 
 A Java stock-management engine implemented from scratch as a data structures project. The system manages stocks, price updates, timestamped events, and price-range queries using a custom generic 2-3 tree implementation.
+
+## Recruiter Snapshot
+
+| Strength | What This Project Demonstrates |
+| --- | --- |
+| Algorithms | Balanced tree operations, ordered keys, range retrieval |
+| System design | Dual indexes over the same stock objects |
+| Java OOP | Encapsulated domain objects, comparable key wrappers, generic tree logic |
+| Edge cases | Invalid input handling, duplicate prevention, timestamp rollback |
 
 ## Highlights
 
@@ -72,3 +92,9 @@ java -cp out Main
 ## Resume Summary
 
 Built a Java stock-tracking engine backed by a custom generic 2-3 tree, supporting stock lifecycle operations, timestamped price updates, event rollback, and price-range queries through dual indexes by stock ID and price.
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:22C55E,100:0EA5E9&height=95&section=footer)
+
+</div>
